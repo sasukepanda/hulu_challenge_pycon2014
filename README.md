@@ -2,8 +2,6 @@
 
 my code for the hulu challenge during Pycon 2014.
 
-The problem is the following:
-
 # Problem
 
 Given a list of sets of words, determine the frequency with which other words occur together with all of the words in another given set of words. The list of sets of words is provided as a CSV file. Using the data in this file, write a function that takes a set of words as parameter, and returns a dictionary of the frequency of OTHER titles that occur in a line that contains ALL WORDS in the given input set.
